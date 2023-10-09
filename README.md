@@ -34,11 +34,11 @@
 
 ## Wireframes
 
+### Login Page
+![wf_login](./images/wf_login.png)
 ### Main Landing Page
-[landing page image]
+![wf_main](./images/wf_main.png)
 ##
 ### Enter New Activity
-[new activity image]
+![wf_enternew](./images/wf_enternew.png)
 ##
-### User Profile Page
-[user profile image]
