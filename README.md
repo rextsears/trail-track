@@ -6,7 +6,7 @@
 ###
 
 ## Entity Relationship Diagram (ERD)
-[erd image]
+![erd](.images/erd.png)
 ###
 
 ## User Stories
