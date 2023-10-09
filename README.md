@@ -36,9 +36,10 @@
 
 ### Login Page
 ![wf_login](./images/wf_login.png)
+#
 ### Main Landing Page
 ![wf_main](./images/wf_main.png)
-##
+#
 ### Enter New Activity
 ![wf_enternew](./images/wf_enternew.png)
-##
+#
